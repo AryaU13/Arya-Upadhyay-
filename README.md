@@ -103,7 +103,7 @@ if attempts == 0:
     print("Game over! The word was:", word)
     #Question 2
     import csv
-
+Question 2
 name = input("Enter stock name: ")
 buy = float(input("Enter buy price: "))
 qty = int(input("Enter quantity: "))
